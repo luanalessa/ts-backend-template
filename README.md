@@ -49,9 +49,7 @@ POST /login
 
 # 🏁 Getting Started 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), so you need to install [Node.js](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/) first, in order to test the project.
-
-First of all, launch you database locally and create a `.env` file with the environment variables listed on `.env.exemple`.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), so you need to install [Node.js](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/) first, in order to test the project. Remember to launch you database locally and create a `.env` file with the environment variables listed on `.env.exemple`.
 
 Then, clone the repository with:
 
